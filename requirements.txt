@@ -1,0 +1,7 @@
+google-generativeai
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+nest_asyncio
+python-multipart
